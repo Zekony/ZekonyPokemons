@@ -6,6 +6,7 @@ I created this app to learn using Paging.
 
 - Language: Kotlin
 - UI: Jetpack Compose
+- Orbit Mvi
 - Coroutines
 - Retrofit
 - Koin
